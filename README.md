@@ -1,2 +1,2 @@
 # hello-world
-to get familiar
+getting started
